@@ -1,0 +1,1368 @@
+{
+    "header": {
+        "timestamp": "2025-05-24T21:21:39.493956",
+        "countries": [
+            "us",
+            "gb",
+            "in",
+            "au",
+            "ca",
+            "de",
+            "fr"
+        ]
+    },
+    "news": [
+        {
+            "country": "us",
+            "title": "Container ship barely misses Norwegian man’s house after running aground - The Washington Post",
+            "description": "The bow of the 11,000-ton NCL Salten remained in the man’s backyard as authorities investigated the cause.",
+            "url": "https://www.washingtonpost.com/world/2025/05/23/norway-cargo-ship-aground-fjord-nclsalten/",
+            "publishedAt": "2025-05-23T13:59:52Z",
+            "source": "The Washington Post"
+        },
+        {
+            "country": "us",
+            "title": "Trump threatens Apple with a 25% tariff if it doesn’t build iPhones in America - CNN",
+            "description": "President Donald Trump on Friday demanded Apple make its iPhones in the United States or face a 25% tariff.",
+            "url": "https://www.cnn.com/2025/05/23/economy/trump-threatens-tariff-apple",
+            "publishedAt": "2025-05-23T13:48:00Z",
+            "source": "CNN"
+        },
+        {
+            "country": "us",
+            "title": "Taylor Swift summons withdrawn from Justin Baldoni-Blake Lively case - BBC",
+            "description": "The pop star's team complained that the legal order was an \"unwarranted fishing expedition\".",
+            "url": "https://www.bbc.com/news/articles/cm2k0dmvvkgo",
+            "publishedAt": "2025-05-23T13:09:29Z",
+            "source": "BBC News"
+        },
+        {
+            "country": "us",
+            "title": "Senate Republicans look to curb House rollback of IRA tax credits - Politico",
+            "description": "The House bill passed Thursday includes more aggressive cuts to the clean energy credits than earlier drafts.",
+            "url": "https://www.politico.com/news/2025/05/23/senate-republicans-house-rollback-ira-tax-credits-00366212",
+            "publishedAt": "2025-05-23T13:05:10Z",
+            "source": "Politico"
+        },
+        {
+            "country": "us",
+            "title": "Uche Ojeh, Husband Of ‘Today’ Co-Host Sheinelle Jones, Dies At 45 - Deadline",
+            "description": "Uche Ojeh, the husband of Today co-host Sheinelle Jones, has died, the show announced on Friday. The cause was a form of brain cancer, glioblastoma, Today host Savannah Guthrie told viewers. He was 45. “There are no words for the pain that we feel for Sheinel…",
+            "url": "http://deadline.com/2025/05/uche-ojeh-dies-sheinelle-jones-husband-1236409430/",
+            "publishedAt": "2025-05-23T12:46:00Z",
+            "source": "Deadline"
+        },
+        {
+            "country": "us",
+            "title": "Trump recommends 50% tariff on European Union starting June 1 - CNBC",
+            "description": "President Donald Trump believes European Union proposals have not matched those from other trading partners, U.S. Treasury Secretary Scott Bessent said.",
+            "url": "https://www.cnbc.com/2025/05/23/trump-recommends-50percent-tariff-on-european-union-starting-june-1.html",
+            "publishedAt": "2025-05-23T11:47:50Z",
+            "source": "CNBC"
+        },
+        {
+            "country": "us",
+            "title": "Knicks-Pacers: 5 takeaways from Indiana's stunning comeback in Game 1 - NBA",
+            "description": "Down 17 in the 4th and 14 with little more than 3 minutes left in regulation, Indiana rallies to win in overtime.",
+            "url": "https://www.nba.com/news/knicks-pacers-takeaways-game-1-2025-nba-playoffs",
+            "publishedAt": "2025-05-23T10:16:22Z",
+            "source": "Heat.com"
+        },
+        {
+            "country": "us",
+            "title": "North Korea: Satellite photos show Kim Jong Un's damaged warship - BBC",
+            "description": "Kim Jong Un has called the shipyard accident a \"criminal act\" and vowed to find those responsible.",
+            "url": "https://www.bbc.com/news/articles/cx2qgdnxxe2o",
+            "publishedAt": "2025-05-23T10:07:49Z",
+            "source": "BBC News"
+        },
+        {
+            "country": "us",
+            "title": "Microsoft CPO says she 'fundamentally' disagrees with the idea that people shouldn't study computer science - Business Insider",
+            "description": "The Microsoft CPO says it's possible software engineers will be viewed as \"software operators\" in the future, but the role is unlikely to disappear.",
+            "url": "https://www.businessinsider.com/microsoft-cpo-computer-science-degree-coding-important-skills-project-managers-2025-5",
+            "publishedAt": "2025-05-23T09:59:00Z",
+            "source": "Business Insider"
+        },
+        {
+            "country": "us",
+            "title": "Everything unveiled at Google I/O 2025: Smart glasses, Gemini, Search, more - ZDNET",
+            "description": "Here's the rundown of every major announcement at the annual developer conference this week.",
+            "url": "https://www.zdnet.com/article/everything-unveiled-at-google-io-2025-smart-glasses-gemini-search-more/",
+            "publishedAt": "2025-05-23T09:30:00Z",
+            "source": "ZDNet"
+        },
+        {
+            "country": "us",
+            "title": "Judge says Trump has power to impose tariffs, but punts lawsuit to different court - ABC News",
+            "description": null,
+            "url": "https://abcnews.go.com/Politics/judge-trump-power-impose-tariffs-punts-lawsuit-court/story?id\\\\u003d122099656",
+            "publishedAt": "2025-05-23T09:11:15Z",
+            "source": "ABC News"
+        },
+        {
+            "country": "us",
+            "title": "\"Like a pendulum\": How America's racial reckoning unraveled - Axios",
+            "description": "The America that marched for George Floyd five years ago is gone.",
+            "url": "https://www.axios.com/2025/05/23/george-floyd-anniversary-trump-racial-justice",
+            "publishedAt": "2025-05-23T09:01:48Z",
+            "source": "Axios"
+        },
+        {
+            "country": "us",
+            "title": "Graphics: Here's what it will take to transform the Qatari jet into Air Force One - NPR",
+            "description": "The U.S. has officially accepted a luxury jetliner from Qatar as a gift, and slated it to become a new Air Force One. Experts say that overhaul could take years and cost hundreds of millions.",
+            "url": "https://www.npr.org/2025/05/23/nx-s1-5406188/qatar-gift-plane-trump-air-force-one-overhaul-explained",
+            "publishedAt": "2025-05-23T09:00:00Z",
+            "source": "NPR"
+        },
+        {
+            "country": "us",
+            "title": "How Mike Johnson doused a GOP dumpster fire - Politico",
+            "description": "The speaker spent months keeping flare-ups from growing into a conflagration even Donald Trump couldn’t extinguish.",
+            "url": "https://www.politico.com/news/2025/05/22/mike-johnson-gop-megabill-reconciliation-00366854",
+            "publishedAt": "2025-05-23T08:45:00Z",
+            "source": "Politico"
+        },
+        {
+            "country": "us",
+            "title": "Supreme Court says Trump can fire agency heads for now, but insulates Fed - Axios",
+            "description": "The ruling will come as a significant relief to markets that were concerned about the Fed's independence.",
+            "url": "https://www.axios.com/2025/05/22/federal-reserve-supreme-court-trump",
+            "publishedAt": "2025-05-23T08:44:02Z",
+            "source": "Axios"
+        },
+        {
+            "country": "us",
+            "title": "Shai Gilgeous-Alexander gets his MVP award and a surprise from Chris Paul - Andscape",
+            "description": "OKLAHOMA CITY – Shai Gilgeous-Alexander had just received the NBA Most Valuable Player award when he noticed something suspicious. There was a man sitting court…",
+            "url": "https://andscape.com/features/shai-gilgeous-alexander-gets-his-mvp-award-and-a-surprise-from-chris-paul/",
+            "publishedAt": "2025-05-23T06:39:53Z",
+            "source": "Andscape.com"
+        },
+        {
+            "country": "us",
+            "title": "Music talent agent among dead after jet crashes into San Diego neighborhood - NPR",
+            "description": "Six people, including music talent agent Dave Shapiro, were on board a private jet that crashed into a San Diego neighborhood on Thursday.",
+            "url": "https://www.npr.org/2025/05/23/g-s1-68613/music-talent-agent-among-dead-jet-crash-san-diego",
+            "publishedAt": "2025-05-23T05:30:53Z",
+            "source": "NPR"
+        },
+        {
+            "country": "us",
+            "title": "Investors shift away from US bond market on fears over Donald Trump’s policies - Financial Times",
+            "description": "Worries about trade wars and a rising debt load have shaken faith in the Treasury market",
+            "url": "https://www.ft.com/content/47267a76-feb1-46a7-97af-0c1584d20b45",
+            "publishedAt": "2025-05-23T04:01:55Z",
+            "source": "Financial Times"
+        },
+        {
+            "country": "us",
+            "title": "Trump administration accuses Columbia University of violating federal civil rights law by failing to protect Jewish students - CNN",
+            "description": "The Trump administration alleged Thursday that Columbia University violated federal civil rights law by acting with “deliberate indifference” towards harassment of Jewish students on campus since October 2023.",
+            "url": "https://www.cnn.com/2025/05/22/us/columbia-university-hhs-civil-rights-violation",
+            "publishedAt": "2025-05-23T02:56:00Z",
+            "source": "CNN"
+        },
+        {
+            "country": "us",
+            "title": "Who Is Elias Rodriguez? A Portrait of Jewish Museum Shooting Suspect Emerges - WSJ",
+            "description": null,
+            "url": "https://www.wsj.com/us-news/who-elias-rodriguez-dc-shooting-suspect-israeli-embassy-adcf9b65",
+            "publishedAt": "2025-05-23T01:07:00Z",
+            "source": "The Wall Street Journal"
+        },
+        {
+            "country": "us",
+            "title": "What to know about the deal to transfer sovereignty of the disputed Chagos Islands - AP News",
+            "description": "The governments of Britain and Mauritius have signed a deal settling the future of the Chagos Islands after overcoming last-minute legal hurdles. The contested archipelago in the middle of the Indian Ocean is home to a strategically important U.S. military ba…",
+            "url": "https://apnews.com/article/chagos-islands-mauritius-uk-deal-diego-garcia-81d046b333b0af81489ed75543f9534b",
+            "publishedAt": "2025-05-23T00:45:00Z",
+            "source": "Associated Press"
+        },
+        {
+            "country": "us",
+            "title": "‘Sirens’ Star Meghann Fahy Breaks Down the Show’s Shocking Ending, That ‘Powerful’ Last Scene With Julianne Moore and Her Hopes for a Season 2 - Variety",
+            "description": "'Sirens' is the latest buzzy Netflix limited series, and star Meghann Fahy breaks down the finale and discusses the possibility of a Season 2.",
+            "url": "https://variety.com/2025/tv/news/sirens-season-2-meghann-fahy-finale-secrets-1236406778/",
+            "publishedAt": "2025-05-22T23:00:00Z",
+            "source": "Variety"
+        },
+        {
+            "country": "us",
+            "title": "Weight-loss drugs may lower cancer risk in people with diabetes, a study suggests - Yahoo",
+            "description": "Excess body weight can raise the risk of certain cancers, leading researchers to wonder whether blockbuster drugs like Wegovy, Ozempic and Zepbound could...",
+            "url": "https://www.yahoo.com/lifestyle/weight-loss-drugs-may-lower-210141935.html",
+            "publishedAt": "2025-05-22T21:01:41Z",
+            "source": "Yahoo Entertainment"
+        },
+        {
+            "country": "us",
+            "title": "Apple Stops Work on Camera-Equipped Apple Watch Planned for 2027 - MacRumors",
+            "description": "Apple is no longer planning to release an Apple Watch that includes a camera, reports Bloomberg. Apple was developing Apple Watch and Apple Watch...",
+            "url": "https://www.macrumors.com/2025/05/22/apple-watch-with-camera-canceled/",
+            "publishedAt": "2025-05-22T19:41:11Z",
+            "source": "MacRumors"
+        },
+        {
+            "country": "us",
+            "title": "A surprising source of clouds in Antarctica: Penguin poop - The Washington Post",
+            "description": "Previous models have found clouds fueled by seabird guano in the Arctic do cool the ground, but the study authors say observations are needed to confirm the effect on the climate.",
+            "url": "https://www.washingtonpost.com/climate-solutions/2025/05/22/penguin-guano-clouds-study-climate/",
+            "publishedAt": "2025-05-22T18:34:59Z",
+            "source": "The Washington Post"
+        },
+        {
+            "country": "us",
+            "title": "Watch SpaceX's 32nd Cargo Dragon spacecraft undock from the ISS today - Space",
+            "description": "Bad weather nixed an undocking try scheduled for today (May 22).",
+            "url": "https://www.space.com/space-exploration/international-space-station/watch-spacexs-32nd-cargo-dragon-spacecraft-undock-from-the-iss-today",
+            "publishedAt": "2025-05-22T12:00:00Z",
+            "source": "Space.com"
+        },
+        {
+            "country": "us",
+            "title": "The No. 1 Sign You Have Dead Butt Syndrome & How To Fix It - TODAY.com",
+            "description": "Sitting all day comes with health risks, such as obesity, high blood pressure and blood sugar, and increased cholesterol levels.",
+            "url": "https://www.today.com/health/diet-fitness/trainer-tip-signs-dead-butt-syndrome-rcna207695",
+            "publishedAt": "2025-05-21T21:35:58Z",
+            "source": "TODAY"
+        },
+        {
+            "country": "us",
+            "title": "XDA's Best of Computex 2025: Threadripper, Battlematrix, and other cool names - XDA",
+            "description": "See what we loved most at Computex this year.",
+            "url": "https://www.xda-developers.com/best-of-computex-2025/",
+            "publishedAt": "2025-05-21T18:31:00Z",
+            "source": "XDA Developers"
+        },
+        {
+            "country": "gb",
+            "title": "Monaco Grand Prix: Will mandatory two pits stops 'spice it up a bit more'?",
+            "description": "The Monaco Grand Prix will feature a mandatory two pit stops for every driver in an effort to make the race more unpredictable - but will it work?",
+            "url": "http://www.bbc.co.uk/sport/formula1/articles/c3087eqr292o",
+            "publishedAt": "2025-05-23T16:22:21.3617039Z",
+            "source": "BBC Sport"
+        },
+        {
+            "country": "gb",
+            "title": "Man steering Norway ship that crashed into a garden was asleep, police say",
+            "description": "Police say the ship's watch officer admitted to being asleep during the incident",
+            "url": "https://www.bbc.co.uk/news/articles/c1e6jp6z6lgo",
+            "publishedAt": "2025-05-23T16:22:20.4556798Z",
+            "source": "BBC News"
+        },
+        {
+            "country": "gb",
+            "title": "Monaco Grand Prix: Charles Leclerc fastest in first practice despite collision with Lance Stroll",
+            "description": "Charles Leclerc sets the pace in first practice at the Monaco Grand Prix, despite consistently complaining about the behaviour of his Ferrari.",
+            "url": "http://www.bbc.co.uk/sport/formula1/articles/cx2rj2x58r4o",
+            "publishedAt": "2025-05-23T16:22:18.4405553Z",
+            "source": "BBC Sport"
+        },
+        {
+            "country": "gb",
+            "title": "Chelsea accept star midfielder can leave amid PSR concerns: report",
+            "description": "Chelsea may be forced to part with one of their most valuable players as financial restrictions loom large",
+            "url": "https://www.fourfourtwo.com/news/chelsea-accept-star-midfielder-can-leave-amid-psr-concerns-report",
+            "publishedAt": "2025-05-23T16:00:00Z",
+            "source": "FourFourTwo"
+        },
+        {
+            "country": "gb",
+            "title": "Google News",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKQTFMNG85MzhiWk9RS0VyamFiQzdWWXZ6NnBCcXNlSmdSN2FfRUlabVlubmpDYWFxVk11NG5jd3dJcTkyTkJTUUlBRm5tZDdoM1hORnB0OA",
+            "publishedAt": "2025-05-23T15:55:00+00:00",
+            "source": "Google News (UK)"
+        },
+        {
+            "country": "gb",
+            "title": "Jay Slater: Snapchat footage reveals teenager's final hours in Tenerife",
+            "description": "The teenager, who was found dead in the Spanish island, made Snapchat videos the day he went missing.",
+            "url": "https://www.bbc.co.uk/news/articles/cdd2z841g86o",
+            "publishedAt": "2025-05-23T15:52:22.8463321Z",
+            "source": "BBC News"
+        },
+        {
+            "country": "gb",
+            "title": "UN chief says Palestinians enduring ‘cruellest phase’ of Gaza conflict – as it happened - The Guardian",
+            "description": "<ol><li>UN chief says Palestinians enduring ‘cruellest phase’ of Gaza conflict – as it happened  The Guardian\r\n</li><li>UN says Gaza in 'cruellest phase' of war as 9,000 trucks' worth of aid ready at border  BBC\r\n</li><li>Israel-Gaza latest: Gaza enduring 'at…",
+            "url": "https://accounts.google.com/v3/signin/confirmidentifier",
+            "publishedAt": "2025-05-23T15:17:00+00:00",
+            "source": "Google News (UK)"
+        },
+        {
+            "country": "gb",
+            "title": "Tottenham Hotspur to hold victory parade after Europa League triumph",
+            "description": "The north London team are celebrating their first European trophy for 41 years with an open-top bus parade in the capital.",
+            "url": "http://www.bbc.co.uk/news/live/c3087gp889vt",
+            "publishedAt": "2025-05-23T15:07:19.8298243Z",
+            "source": "BBC Sport"
+        },
+        {
+            "country": "gb",
+            "title": "Philippe Coutinho interview interrupted by GUNSHOTS at club training ground",
+            "description": "The former Liverpool and Barcelona playmaker is back in Brazil with Vasco da Gama",
+            "url": "https://www.fourfourtwo.com/news/philippe-coutinho-caught-off-guard-by-gunshot-sounds-at-club-training-ground",
+            "publishedAt": "2025-05-23T15:00:00Z",
+            "source": "FourFourTwo"
+        },
+        {
+            "country": "gb",
+            "title": "Ex-Sri Lanka captain Angelo Mathews to retire from Test cricket",
+            "description": "Former Sri Lanka captain Angelo Mathews will retire from Test cricket in June.",
+            "url": "http://www.bbc.co.uk/sport/cricket/articles/cx27l25jndeo",
+            "publishedAt": "2025-05-23T14:37:29.4088754Z",
+            "source": "BBC Sport"
+        },
+        {
+            "country": "gb",
+            "title": "British woman accused of smuggling drugs into Sri Lanka in suitcase",
+            "description": "Charlotte May Lee, 21, from south London, denies knowing drugs were in her suitcase.",
+            "url": "https://www.bbc.co.uk/news/articles/cwy6gq0l5dgo",
+            "publishedAt": "2025-05-23T14:37:29.3307699Z",
+            "source": "BBC News"
+        },
+        {
+            "country": "gb",
+            "title": "Man Utd tell staff of job losses in second round of redundancies",
+            "description": "Manchester United are set to cut up to 200 jobs - after about 250 employees were made redundant last year.",
+            "url": "http://www.bbc.co.uk/sport/football/articles/clyq875gdngo",
+            "publishedAt": "2025-05-23T14:37:25.7355138Z",
+            "source": "BBC Sport"
+        },
+        {
+            "country": "gb",
+            "title": "Ukraine and Russia exchange 780 soldiers and civilians in biggest swap",
+            "description": "The handover of 390 soldiers and civilians on both sides is the largest since the start of the full-scale war.",
+            "url": "https://www.bbc.co.uk/news/articles/cy4eyjxz7eno",
+            "publishedAt": "2025-05-23T14:37:25.4074704Z",
+            "source": "BBC News"
+        },
+        {
+            "country": "gb",
+            "title": "How Championship play-off final could tighten US grip on Premier League",
+            "description": "If Sheffield United beat Sunderland on Saturday, the level of influence wielded by American investors in the Premier League will reach an unprecedented level, writes Dan Roan.",
+            "url": "http://www.bbc.co.uk/sport/football/articles/c5y27y0jrejo",
+            "publishedAt": "2025-05-23T14:37:22.423838Z",
+            "source": "BBC Sport"
+        },
+        {
+            "country": "gb",
+            "title": "Google News",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdkhQWUpSYW95WkFfeERSMmNvdjVYekVkd1llREE3MWQ5N1piVXk2Q3gwaDYzTDV1TEwxRUM1MnFqdmpzTm42ZU93RWI4MDBzZGRSYkl6Z2l2WDY2a2twcVNBTUJzVFdwZGx0MHVTS3BCU0ZsWk1acDRjWVpOc0dVYWtuY1VYczFJN25sNkJ0UnQxR0ktNUtvaVBhNTlHSEFtdU5WYg",
+            "publishedAt": "2025-05-23T14:18:00+00:00",
+            "source": "Google News (UK)"
+        },
+        {
+            "country": "gb",
+            "title": "Google News",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yNFlGZXo5YllVOXdITGtTYS1rYXozM1lpNmtQM3RCRUgwaVNIRFN3MU9nYjdTMXlxQkoyWlRHdTVZWTJNT3Jka1VIWEpVZ25xMUVCcUc2QktZVk9E0gFiQVVfeXFMTW0zRVo1TWxXYmw4NHR5QXB2MTJoZzRHWFVZVlRDc3QtLXFDWUNOUFBNRHRKbzkyeEV6REZESjZUYnlHdlZRRGZqbnozb2hZMk4xMzdLMHJpVTJYTE5jQV91TWc",
+            "publishedAt": "2025-05-23T14:07:13+00:00",
+            "source": "Google News (UK)"
+        },
+        {
+            "country": "gb",
+            "title": "Tottenham Hotspur could seal biggest summer move after Europa League triumph",
+            "description": "Ange Postecoglou's Tottenham beat Manchester United to lift the trophy and claim a Champions League place for next season",
+            "url": "https://www.fourfourtwo.com/news/tottenham-hotspur-could-seal-biggest-summer-move-after-europa-league-triumph",
+            "publishedAt": "2025-05-23T14:00:00Z",
+            "source": "FourFourTwo"
+        },
+        {
+            "country": "gb",
+            "title": "Google News",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZendpUkFkU01VSEpVSGU0S3dfVFdmdVJuSFdTZkdLRFRtR1k3ZVNnd1g2amtkMTY3eWRTSXhGX3VGRkVSYS1HaGdTT3pQSlFISmJaWlUwV1ZCd9IBX0FVX3lxTE5CRkUxV2FSV1hsZXo2X3FWeXQ1SnQ1VFpGVzNtR2lONTFnLWJiTnU5dDQ2SXpIWm5TMnczMUl3SE4wbGN1a3RfNlNmeU1CREwyUGh2T0NQVjh2RFNkUmNZ",
+            "publishedAt": "2025-05-23T13:49:13+00:00",
+            "source": "Google News (UK)"
+        },
+        {
+            "country": "gb",
+            "title": "French Open 2025: Jack Draper 'refreshed' after going home to London before Roland Garros",
+            "description": "After warning about the dangers of fatigue, British men's number one Jack Draper is learning how to 'switch off' and refresh before key events.",
+            "url": "http://www.bbc.co.uk/sport/tennis/articles/c80kp85ner5o",
+            "publishedAt": "2025-05-23T13:22:28.9073983Z",
+            "source": "BBC Sport"
+        },
+        {
+            "country": "gb",
+            "title": "Teens plead guilty to murder of boy, 14, on bus in Woolwich",
+            "description": "Kelyan Bokassa died shortly after being attacked on a double-decker bus in south-east London.",
+            "url": "https://www.bbc.co.uk/news/articles/cy75nzk4y1vo",
+            "publishedAt": "2025-05-23T13:22:23.7680534Z",
+            "source": "BBC News"
+        },
+        {
+            "country": "gb",
+            "title": "Harvard sues Trump administration for blocking foreign student enrolment",
+            "description": "It comes a day after the administration said it had revoked Harvard's access to student visa programmes.",
+            "url": "https://www.bbc.co.uk/news/articles/cje7ledqvyqo",
+            "publishedAt": "2025-05-23T13:22:17.6734111Z",
+            "source": "BBC News"
+        },
+        {
+            "country": "gb",
+            "title": "The 'tartan' Newcastle United 2025/26 home kit has dropped - and Adidas have nailed it",
+            "description": "The Newcastle United 2025/26 home kit is here, with Addias's so-called tartan pattern looking stunning",
+            "url": "https://www.fourfourtwo.com/news/adidas-newcastle-united-202526-home-kit",
+            "publishedAt": "2025-05-23T12:55:55Z",
+            "source": "FourFourTwo"
+        },
+        {
+            "country": "gb",
+            "title": "Google News",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UQnR5dzdWQ09Sb1dvX2pvbFdqLTlyRWQ0cUtucmczTHZjYl9rcThXaE9Eb1FvRFpQbndhcXY2VkY1VEZWWmFYOGYyWXRQMWs4dTdsWFFjRWRfaFRT0gFiQVVfeXFMUDhsRVpDTi1ONGppd3F3ZWVXcF9lVGZlVzVSUWJCQVJ2b2xWLW9vd1E2b3gyNjJUMlZIOWhlejhUZzJMTGhOaTV2UlpjRVhnNTViOG5kN0k0c1lIRm43X0w5M3c",
+            "publishedAt": "2025-05-23T12:44:41+00:00",
+            "source": "Google News (UK)"
+        },
+        {
+            "country": "gb",
+            "title": "Trump threatens tariffs on Apple iPhones and EU products",
+            "description": "Donald Trump says he is \"recommending\" imposing a 50% tariff on goods from the European Union imported into the US.",
+            "url": "https://www.bbc.co.uk/news/articles/cgr5xrygzk5o",
+            "publishedAt": "2025-05-23T12:22:20.4246159Z",
+            "source": "BBC News"
+        },
+        {
+            "country": "gb",
+            "title": "Tottenham Hotspur manager Ange Postecoglou isn’t sticking around for big Daniel Levy decision, with well-earned break ahead",
+            "description": "Tottenham’s Europa League celebrations could quickly turn into a farewell for Ange Postecoglou",
+            "url": "https://www.fourfourtwo.com/news/tottenham-hotspur-manager-ange-postecoglou-isnt-sticking-around-for-big-daniel-levy-decision-with-well-earned-break-ahead",
+            "publishedAt": "2025-05-23T12:00:00Z",
+            "source": "FourFourTwo"
+        },
+        {
+            "country": "gb",
+            "title": "Liverpool facing further contract drama with Barcelona move on horizon for star: report",
+            "description": "Liverpool could soon see another high-profile departure bound for a La Liga giant",
+            "url": "https://www.fourfourtwo.com/news/liverpool-facing-further-contract-drama-with-barcelona-move-on-horizon-for-star-report",
+            "publishedAt": "2025-05-23T11:35:16Z",
+            "source": "FourFourTwo"
+        },
+        {
+            "country": "gb",
+            "title": "Google News",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeVVwbklOVWJxS0JQaXZXQWR3bzdHbnhjd2R1VDE1dnVQZUpTVDQ0QzZBVmluOHlyT0VJQi13ckQ5UEFQbkNnNmFQakVlXzNJcXpGcXFFekFOVHRYN1VYVG1nNWkxRXcwdGRvRm5oZEV5MU44V1l2XzMybnI1bWhIWUxiNG5NNmYxZWdj",
+            "publishedAt": "2025-05-23T11:02:21+00:00",
+            "source": "Google News (UK)"
+        },
+        {
+            "country": "gb",
+            "title": "Carlo Ancelotti: Real Madrid pay tribute as Italian boss set for last game before Brazil move",
+            "description": "Carlo Ancelotti says his bond with Real Madrid \"is eternal\" as he prepares to leave the Spanish club this weekend to become head coach of Brazil.",
+            "url": "http://www.bbc.co.uk/sport/football/articles/cje7l5pg4dpo",
+            "publishedAt": "2025-05-23T10:37:17.9696662Z",
+            "source": "BBC Sport"
+        },
+        {
+            "country": "gb",
+            "title": "Google News",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQajlIMlEtT2J6eDRBR3hITHNUbWx1Qm5WLWVGblVzMjVhclhleXRmNk1JMFNzZmgtcG9rRHY5ejdIV0lhZ0Z3a3I3bkVPX2hvbFVJYXNsZDd6djcyTGlCcEJBUEtyZzNYQ3JIVThUWnI1OVozY1Q4VFZNczM5R0hreFlHUlZXR29pOXlyeA",
+            "publishedAt": "2025-05-23T10:18:45+00:00",
+            "source": "Google News (UK)"
+        },
+        {
+            "country": "gb",
+            "title": "Liverpool star Mohamed Salah doubles down on Jurgen Klopp stance as awards start rolling in",
+            "description": "Liverpool winger Mohamed Salah was part Jurgen Klopp's title-winning side and has repeated the feat under Arne Slot",
+            "url": "https://www.fourfourtwo.com/news/liverpool-star-mohamed-salah-doubles-down-on-jurgen-klopp-stance-as-awards-start-rolling-in",
+            "publishedAt": "2025-05-23T09:58:43Z",
+            "source": "FourFourTwo"
+        },
+        {
+            "country": "gb",
+            "title": "England vs Zimbabwe LIVE: Test, Trent Bridge, day two - cricket score, commentary, highlights & updates",
+            "description": "England face Zimbabwe in a one-off Test at Trent Bridge - follow live scores, radio commentary, video highlights and updates.",
+            "url": "http://www.bbc.co.uk/sport/cricket/live/c77n58rjxnzt",
+            "publishedAt": "2025-05-23T09:52:23.4087692Z",
+            "source": "BBC Sport"
+        },
+        {
+            "country": "gb",
+            "title": "England squad: Ivan Toney recalled by Thomas Tuchel for Andorra and Senegal games matches",
+            "description": "Former Brentford striker Ivan Toney earns England recall for next month's World Cup qualifier against Andorra and friendly Senegal.",
+            "url": "http://www.bbc.co.uk/sport/football/articles/c706rdlkg5go",
+            "publishedAt": "2025-05-23T09:22:20.9708818Z",
+            "source": "BBC Sport"
+        },
+        {
+            "country": "gb",
+            "title": "Energy price cap: Ofgem confirms fall but says fixing could save money",
+            "description": "A typical annual domestic energy bill will drop by £129 in July, the first fall in a year.",
+            "url": "https://www.bbc.co.uk/news/articles/cn7zdzz83y0o",
+            "publishedAt": "2025-05-23T09:22:18.3777813Z",
+            "source": "BBC News"
+        },
+        {
+            "country": "gb",
+            "title": "‘Look, it's not up to me or the players, but we just have to look at the facts’ Two Tottenham stars state their position on Ange Postecoglou's future",
+            "description": "Ange Postecoglou could still potentially face the sack despite delivering his side’s first trophy in 17 years",
+            "url": "https://www.fourfourtwo.com/news/look-its-not-up-to-me-or-the-players-but-we-just-have-to-look-at-the-facts-two-tottenham-stars-state-their-position-on-ange-postecoglous-future",
+            "publishedAt": "2025-05-23T08:45:33Z",
+            "source": "FourFourTwo"
+        },
+        {
+            "country": "gb",
+            "title": "EFL play-off finals preview: The pick of the facts and stats ahead of this weekend's Wembley triple-header",
+            "description": "Who will be the final teams promoted from the Championship, League One and League Two?",
+            "url": "https://www.fourfourtwo.com/news/efl-play-off-finals-preview-the-pick-of-the-facts-and-stats-ahead-of-this-weekends-wembley-triple-header",
+            "publishedAt": "2025-05-23T05:00:00Z",
+            "source": "FourFourTwo"
+        },
+        {
+            "country": "gb",
+            "title": "Man in Norway wakes to find huge container ship in garden",
+            "description": "Johan Helberg says he was \"quite astonished\" to look out of his window and see the vessel.",
+            "url": "https://www.bbc.co.uk/news/articles/cy8nk279ydyo",
+            "publishedAt": "2025-05-23T03:22:29.7682596Z",
+            "source": "BBC News"
+        },
+        {
+            "country": "gb",
+            "title": "Ship footage shared with BBC captures sound of Oceangate's Titan sub imploding",
+            "description": "Support ship video shows the wife of Oceangate CEO Stockton Rush hearing the sound of the implosion.",
+            "url": "https://www.bbc.co.uk/news/articles/c5yg5qggvwjo",
+            "publishedAt": "2025-05-22T22:37:22.3689306Z",
+            "source": "BBC News"
+        },
+        {
+            "country": "gb",
+            "title": "‘They've been getting out of jail with European football and it's been covering the huge cracks at Manchester United. All season they have been so easy to beat’ Manchester United legend SLAMS his former club following Europa League final defeat",
+            "description": "Manchester United have not been short of criticism this season, and their loss to Tottenham Hotspur certainly won’t help matters",
+            "url": "https://www.fourfourtwo.com/news/theyve-been-getting-out-of-jail-with-european-football-and-its-been-covering-the-huge-cracks-at-manchester-united-all-season-they-have-been-so-easy-to-beat-manchester-united-legend-slams-his-former-club-following-europa-league-final-defeat",
+            "publishedAt": "2025-05-22T17:46:39Z",
+            "source": "FourFourTwo"
+        },
+        {
+            "country": "gb",
+            "title": "Shedeur Sanders doubles net worth with newly signed rookie contract with Browns",
+            "description": "The fifth round rookie quarterback is officially signed. The Cleveland Browns inked Shedeur Sanders to a four-year, $4.6 million contract. With the ink dry on his new contract, Sanders has doubled …",
+            "url": "https://talksport.com/nfl/3220044/shedeur-sanders-cleveland-browns-nfl-rookie-contract-networth/",
+            "publishedAt": "2025-05-19T22:51:48Z",
+            "source": "TalkSport"
+        },
+        {
+            "country": "gb",
+            "title": "'We're both No. 1.' - Dallas Cowboys star makes bold proclamation with embattled newcomer",
+            "description": "Dak Prescott will be throwing to two no.1 wide receivers this season.At least according to CeeDee Lamb.The Cowboys traded for Pittsburgh Steelers wide",
+            "url": "https://talksport.com/nfl/3219602/dallas-cowboys-ceedee-lamb-george-pickens-dak-prescott-jones/",
+            "publishedAt": "2025-05-19T20:50:58Z",
+            "source": "TalkSport"
+        },
+        {
+            "country": "in",
+            "title": "Google News",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbU5oT01BSXhxMXNLUjJDak1rOWRRSDZ0aEg4THlvQVBOUlVlVkRzUVNRaHhXM1lmcmhldG8zcFo3MzVsb1EwOGJCaGsySTY1UFBlbkFGR3RIb2VGTjdkNzBIYU1CYVJybmxhUTdnd09mZ1MtNm1wdDZ2LUZzYXRlVUpEbmVFVzBBcW5XNTNvbDh0U3ByZkJWdFRPbk1sb2hNT2YxZGJqdzNoRC15NnFORXBMYmFmSC0yaTQ5bU4zZEFCT1FtTjFOV1JCeVZQS01mYlJQX1N3aVhzdXhBaXJNRzA2T1VMaGRPRDc2LW5nTjZTNTNybzNSRdIB_gFBVV95cUxPRC1PVWZhZ1htWWVVZTdfeHg2LVBxUVJWanZkZW1reEZjUkFTcmlaWl9QRTJ4eW5ZVXh3V1RpNDdmZjMwZ0l3WjNjcVVHbTdHQmVyeGttLXFRdmpMOC1KVEJBc2RtMmM4ZGNvZEV0SVgwN2MyMTVpMk1UdkxBV1UtT2RndklxbVl2UnZLSzl0amxNN21fYldQNmppRTM4QkhPVEdELThaeS1aWHQzdVdBT1k2VjVnSTJWOEZwbjllb3BNWk1FdENOMmtkNTAyMTlCWXhGOVBHRTlhNkFWR3QxLUJPOVZORWpTVnpWSDNrcVp6T0hYTEZJMUpLSFE2dw",
+            "publishedAt": "2025-05-23T13:55:00+00:00",
+            "source": "Google News (India)"
+        },
+        {
+            "country": "in",
+            "title": "Harvard sues the Trump administration over ban on enrolling foreign students - The Hindu",
+            "description": "<ol><li>Harvard sues the Trump administration over ban on enrolling foreign students  The Hindu\r\n</li><li>Supporting Our International Students and Scholars  Harvard University\r\n</li><li>Federal judge blocks Trump administration decision to bar foreign studen…",
+            "url": "https://access.workspace.google.com/remediate",
+            "publishedAt": "2025-05-23T13:00:00+00:00",
+            "source": "Google News (India)"
+        },
+        {
+            "country": "in",
+            "title": "Google News",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONHhid0NTMVh4TFEwV2t5bWVxbm0xRUJFaVRnVFFBd1IzbUtaVmNPY2lvNTd6TjlfRFRVZEFZVkxWQVh1RUNxb2NVazZ5MHdVTmJ0dnRsT2p5TmI3TVJqUzVhcklEbFUwTnhXRUlya2sxQXNzWVpob3ZxSldBZDR4LVNWS1pVcXN0SzE0R3JtUHZjSVI2WTNxdnU4Nl9fd2lBYzJGTE9iSkNoNmZ4QlJMZ3ZaYVBlYW9FaDlpWU9hamVMZDhTcElCWE9JcWFLbF9oTzRMX2tMLVVYRGN4MXpJ",
+            "publishedAt": "2025-05-23T12:57:30+00:00",
+            "source": "Google News (India)"
+        },
+        {
+            "country": "in",
+            "title": "From next election, you can deposit your mobile phone outside polling stations - The Indian Express",
+            "description": "From next election, you can deposit your mobile phone outside polling stations  The Indian ExpressView Full coverage on Google News",
+            "url": "https://admin.google.com/ServiceNotAllowed",
+            "publishedAt": "2025-05-23T12:17:00+00:00",
+            "source": "Google News (India)"
+        },
+        {
+            "country": "in",
+            "title": "Google News",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZDd3aUVpYlFWUUowdVR4R3c3R2tmRldNekkybU95S1dQNUhGSFdCSlM5LXlMbmlOaVVLcDZtNVNaR2k2NV82Vjd1d1ZiU3lSZnFvdXQxS3dHNWNYaE5tcHA1UjFoSUNFNzFyWGNnWXVCQUp2QnFCOHQxODlMRUtjSVIySUlhZ2Rzd2dQSWluYU8wSFUxd1VaUVd0TXZHLTFoMU5ZWVoyTlRXTzhnb3VCUTVQbUVTYUFVSVV6SDFFQWwwMzQtVzU5MzlTX3JNU2FZWHpvSl9vVFY3bm1wUVgtejdFajBYOFhlZFVYQmpDdUtCcUttcFNOVmlCZlXSAYICQVVfeXFMTUxHUGcxWDN5eUowUUdmNDM1NUJKQk40REJoUkxHeG53MzdVWXNEOFYtcnZpeWxlV0tBZ2p4bTBNSHZrWlZ2dlMwSjdKTWpUZ1JUTkJISVY2YmNJdV94cWxyUktiUXRXdFB2cFZabG45MkVrVlVXVG84eDBWbmVGMGd4c1I5VWNRLTU3UEVlYWxFckN4dlFoWlRuWUVlUUFvUllpR0VYSlJMaXhHMU94VHJ3MU92dUFiYmhxanRHc2RsUndMbEdYMlA1Q2d5VEtNeTFyb2lyMDR3S3FFX1JOaVNIdnlCR3V4bEZhZVJkWVpiRnBIYUkySmI3dVZnZjJGaW5n",
+            "publishedAt": "2025-05-23T10:26:00+00:00",
+            "source": "Google News (India)"
+        },
+        {
+            "country": "in",
+            "title": "Google News",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMHVOS0pSS2FuaGMtWk1rZnd0bzhjVGdpVXNzcWZlbHVDNkFZRHRMSzNwQVdveWM4dy1jaHBINHo2SndPdTMxMmszcU5QLWtXZ0Z5U1hrWUFTc2VFU0FtX1p1aTVOazEwTmwtdWJ6M0tRLUh1Mno3MXFqS3c0ZzlVSkNkbmdnV2R1akxMaVRQeWRheWFpQU41VlhUWmozZEw4ZEd5ZUVIQVlCMUx50gGzAUFVX3lxTE5URkhKTXUtZFF1M2ZCWHE0TmlpYWdDMTVPbnFTalhJb21MeENCS3ZpQmNta1BablZaUGFGVEVuVkFtcjNNb3hraHpoaWZicTY0Q1pwUVdsc1psVkUzRFFuZXdzTzJrYUR3VUFOR0Z0eFhZM1MwSWwxVVdmNENZNk94Rm9PdFVDZ05YWURuZWJVUGZYTkhVZDJON3VYdXA3MXZwV3R1SWhGQXpQa1VlaTFvclBR",
+            "publishedAt": "2025-05-23T08:24:00+00:00",
+            "source": "Google News (India)"
+        },
+        {
+            "country": "in",
+            "title": "Google News",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPN2p5QmxLM0ROZlNVbTN4QVppXzZqUGVLUkEweklGODBxclpwUEd6Y2liMGpUd0lxby02NFBRbUlRelA2YTFxaVRIS2VFQ0tSTGlTN3ltZ1dhWWppaEJvWmhxckpZX3pEUk9TLVd5Qk5tb2Zlcmg1SUcwcG5SMWpRdVhUUzc2M3d1Q2ZMb0VJM3JmRVQ1SUJfZmlwT2V0UEphQ2pEeEpWX2NTbEo1Q3VwLWVBb1dPNHR0bVRZNzlVUXRkeVdfODJXTHBRc3ZBVG1FalJXMm8yVTYtNlJqNHg0LUk3OXI3OGpBT3hLMFgyWXPSAfcBQVVfeXFMT1l4VGVHbXhYYUx6akxVbm9BY2Uycjc0SnI0aUZGUWI3cEtqeTNPOWN4WU04LWpBQjMtdDAwdm5ma0hJc3ozMFBfQ21Ud1pybzhmc1V2dkxSN01Lbkt2OUxGMlBZdUJnQUk4UjhrR3RnNlZmY2FpYWFOWks1cmpmTDQwVDR1c0tYQno5V2VXRmhSYmlfRE4wMk4zM2RVcVc0UkhLM3gwbUsyZnhGWDFNcDVuam9MYXM1VFExN0JWRXpaSWpRYjRpcVZwcmdEcTZfazZhRUtqcUxjUTlDVXAxTXJCMlk0Z2xTNFV4QUg3M21tSlVMQkw5OA",
+            "publishedAt": "2025-05-23T07:19:00+00:00",
+            "source": "Google News (India)"
+        },
+        {
+            "country": "in",
+            "title": "Google News",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU08yNkxRc05lRFVPazJhME9fTzlEX1loQ29GdllPMy1TdmUzalRlaUFxeU91VDRoRk9RSGtjLVdtWkhGMnZsWmF2TV9EakhqbnRSMEdSOThjekpIOEZCQnR1dTZGTWN3eU5DcnJYQWFMU1lWeTY1VGNIWjJZU1FCcUpneTItUVh5R3JaaVZaak14MXpWZkIyd0I1eF9wb01kQ3RWRk9uLXJRckxfa2x0RkpleURRaUV6WkxsWUI3aFltREhNbW1pVThrdE01OENMX2fSAdcBQVVfeXFMUGU1ZnY2T2lsVHg0QTdaZE42Z21uR0xkTmh3WnNybzBlZC1KaUhjbGNhWHpSRGpZWXRJTVVYOGtvd2xiQUh5Qjk0RklBOEJ4S1RKQTYxZWg5RmdLRFhJOFg0ZHVaNHR5bGtTT2lycFpFTDA1dU1pdlY5cDdpWmpmM3NjZEJNdnY1Yi1haGZQZDQwWWREYllDVlhDV01GUDdtX3dDMjFkNkNISEhScmVta3lUNDkzS2tYeXo1b0o2dTNoX0NzZjNnRjhmdVJQMnkyUkNDVlpBOHM",
+            "publishedAt": "2025-05-23T00:32:34+00:00",
+            "source": "Google News (India)"
+        },
+        {
+            "country": "in",
+            "title": "Coronavirus live updates | Schools in Rajasthan to reopen from August 2",
+            "description": "More than half of all European adults are now fully vaccinated, the EU said on Thursday, as countries across Europe and Asia battled fresh outbreaks blamed on the fast-spreading Delta variant.",
+            "url": "https://www.thehindu.com/news/national/coronavirus-live-july-23-2021-updates/article35481907.ece",
+            "publishedAt": "2021-07-23T04:37:35.1474224Z",
+            "source": "The Hindu"
+        },
+        {
+            "country": "in",
+            "title": "Parliament proceedings updates | Govt. to move motion seeking suspension of TMC MP today",
+            "description": "The proceedings of both the Houses of Parliament remained paralysed in the first four days of Monsoon session as Opposition members protested over a number of issues including the Pegasus snooping con",
+            "url": "https://www.thehindu.com/news/national/parliament-proceedings-live-july-23-2021/article35481906.ece",
+            "publishedAt": "2021-07-23T04:37:33.9914596Z",
+            "source": "The Hindu"
+        },
+        {
+            "country": "in",
+            "title": "Tokyo Olympics | Deepika ninth in ranking round; Koreans top-two",
+            "description": "The performances will determine the seedings for the elimination rounds.",
+            "url": "https://www.thehindu.com/sport/tokyo-olympics-deepika-ninth-in-ranking-round-koreans-top-two/article35481902.ece",
+            "publishedAt": "2021-07-23T03:40:59Z",
+            "source": "The Hindu"
+        },
+        {
+            "country": "in",
+            "title": "Xi Jinping visits Tibet border region, first by Chinese leader in years",
+            "description": "He inspects newly opened and strategically important railway line",
+            "url": "https://www.thehindu.com/news/international/xi-jinping-visits-tibet-border-region-first-by-chinese-leader-in-years/article35481755.ece",
+            "publishedAt": "2021-07-23T03:01:30Z",
+            "source": "The Hindu"
+        },
+        {
+            "country": "in",
+            "title": "Six Ministers huddle with Yediyurappa, but say they will abide by party decision",
+            "description": "They had played a key role in bringing BJP to power",
+            "url": "https://www.thehindu.com/news/national/karnataka/six-ministers-huddle-with-yediyurappa-but-say-they-will-abide-by-party-decision/article35480182.ece",
+            "publishedAt": "2021-07-22T19:39:39Z",
+            "source": "The Hindu"
+        },
+        {
+            "country": "in",
+            "title": "Limits of cooperation: On reforms in cooperative sector",
+            "description": "Reforms in cooperative sector should not be at the cost of federal principles",
+            "url": "https://www.thehindu.com/opinion/editorial/limits-of-cooperation-the-hindu-editorial-on-reforms-in-cooperative-sector/article35478339.ece",
+            "publishedAt": "2021-07-22T18:32:00Z",
+            "source": "The Hindu"
+        },
+        {
+            "country": "in",
+            "title": "In search of gold: On Tokyo Olympics",
+            "description": "The Olympic Games remain the greatest sporting event for fans and athletes alike",
+            "url": "https://www.thehindu.com/opinion/editorial/in-search-of-gold-the-hindu-editorial-on-tokyo-olympics-2021/article35478354.ece",
+            "publishedAt": "2021-07-22T18:32:00Z",
+            "source": "The Hindu"
+        },
+        {
+            "country": "in",
+            "title": "Hours after ouster as CBI chief, Alok Verma’s phone numbers made it to Pegasus list: Report",
+            "description": "“Also added to the list of numbers at the same time as Verma were two other senior CBI officials, Rakesh Asthana and A.K. Sharma...,” news portal The Wire claimed in a report.",
+            "url": "https://www.thehindu.com/news/national/hours-after-ouster-as-cbi-chief-alok-vermas-phone-numbers-made-it-to-pegasus-list-report/article35477226.ece",
+            "publishedAt": "2021-07-22T17:18:05Z",
+            "source": "The Hindu"
+        },
+        {
+            "country": "in",
+            "title": "Dalai Lama’s close aides targeted on Pegasus spyware list",
+            "description": "‘Analysis indicates that the Indian govt. was selecting the potential targets’",
+            "url": "https://www.thehindu.com/news/international/dalai-lamas-close-aides-targeted-on-pegasus-spyware-list/article35474285.ece",
+            "publishedAt": "2021-07-22T15:47:01Z",
+            "source": "The Hindu"
+        },
+        {
+            "country": "in",
+            "title": "Parliament paralysed over Pegasus, farm laws",
+            "description": "Trinamool member tears IT Minister’s statement on spyware.",
+            "url": "https://www.thehindu.com/news/national/tmc-bjp-mps-scuffle-in-rajya-sabha-over-snooping/article35469208.ece",
+            "publishedAt": "2021-07-22T12:45:50Z",
+            "source": "The Hindu"
+        },
+        {
+            "country": "in",
+            "title": "Army explores procurement of 350 light tanks for mountainous terrain after border standoff with China",
+            "description": "India News:  The Army is now exploring the possibility of procuring 350 light tanks, which can also be transported by air, to augment its firepower in high-altitu",
+            "url": "http://timesofindia.indiatimes.com/india/army-explores-procurement-of-350-light-tanks-for-mountainous-terrain-after-border-standoff-with-china/articleshow/82217825.cms",
+            "publishedAt": "2021-04-23T08:29:00Z",
+            "source": "The Times of India"
+        },
+        {
+            "country": "in",
+            "title": "PBKS vs MI Live Score, IPL 2021: Mumbai Indians seek consistency; Punjab Kings eye return to winning ways",
+            "description": "IPL Live Score: Mumbai Indians seek consistency; Punjab Kings eye return to winning ways. Stay with TOI to get IPL live score, playing 11, scorecard, highlights and ball by ball score updates of the 17th IPL match between Punjab Kings and Mumbai Indians.",
+            "url": "http://timesofindia.indiatimes.com/sports/cricket/ipl/live-blog/punjab-kings-vs-mumbai-indians-pbks-vs-mi-live-score-ipl-2021-17th-match-chennai/liveblog/82214950.cms",
+            "publishedAt": "2021-04-23T05:44:49Z",
+            "source": "The Times of India"
+        },
+        {
+            "country": "in",
+            "title": "Zydus Cadila gets DCGI nod for hepatitis drug for Covid-19 treatment",
+            "description": "India News: Drug firm Zydus Cadila on Friday said it has received restricted emergency use approval from the Indian drug regulator for the use of Pegylated Interf",
+            "url": "http://timesofindia.indiatimes.com/india/zydus-cadila-gets-dcgi-nod-for-hepatitis-drug-for-covid-19-treatment/articleshow/82214909.cms",
+            "publishedAt": "2021-04-23T05:43:00Z",
+            "source": "The Times of India"
+        },
+        {
+            "country": "in",
+            "title": "Even record death toll may hide extent of India’s Covid crisis",
+            "description": "India News: Bodies piling up at crematoriums and burial grounds across India are sparking concerns that the death toll from a ferocious new Covid-19 wave may be m.",
+            "url": "http://timesofindia.indiatimes.com/india/even-record-death-toll-may-hide-extent-of-indias-covid-crisis/articleshow/82213444.cms",
+            "publishedAt": "2021-04-23T04:41:00Z",
+            "source": "The Times of India"
+        },
+        {
+            "country": "in",
+            "title": "Government to provide 5 kg free food grains to poor for May & June",
+            "description": "India News: The government on Friday announced to provide 5 kg free food grains to the poor for May and June 2021. This will cover nearly 80 crore beneficiaries u",
+            "url": "http://timesofindia.indiatimes.com/india/government-to-provide-5-kg-free-food-grains-to-poor-for-may-june/articleshow/82213582.cms",
+            "publishedAt": "2021-04-23T04:23:00Z",
+            "source": "The Times of India"
+        },
+        {
+            "country": "in",
+            "title": "'Inappropriate': PM Modi objects to 'protocol break' during meeting; Delhi CM expresses regret",
+            "description": "India News: Delhi chief minister Arvind Kejriwal on Friday faced flak for sharing a live telecast of an \"in-house\" meeting with Prime Minister Narendra Modi where",
+            "url": "http://timesofindia.indiatimes.com/india/delhi-cmo-expresses-regret-over-televised-address-during-meeting-with-pm-modi/articleshow/82213159.cms",
+            "publishedAt": "2021-04-23T03:54:00Z",
+            "source": "The Times of India"
+        },
+        {
+            "country": "in",
+            "title": "Coronavirus in India live updates: Zydus' Virafin gets DCGI nod for Covid treatment",
+            "description": "In yet another grim milestone, India recorded 3.3 lakh new Covid-19 cases, and 2,263 deaths in a day. Meanwhile, active cases crossed the 24-lakh mar",
+            "url": "http://timesofindia.indiatimes.com/india/coronavirus-in-india-covid-19-vaccine-cases-lockdown-live-updates-23-april-2021/liveblog/82205841.cms",
+            "publishedAt": "2021-04-22T16:20:06Z",
+            "source": "The Times of India"
+        },
+        {
+            "country": "au",
+            "title": "Russia and Ukraine exchange 390 prisoners to start the biggest swap since the war began",
+            "description": "Russia and Ukraine have released 390 prisoners and say more will be exchanged in coming days.",
+            "url": "https://www.abc.net.au/news/2025-05-24/russia-and-ukraine-begin-biggest-prisoner-swap-since-war-began/105331726",
+            "publishedAt": "2025-05-23T15:00:38Z",
+            "source": "ABC News (AU)"
+        },
+        {
+            "country": "au",
+            "title": "Donald Trump takes aim at 'difficult' European Union and iPhones with new tariff threat",
+            "description": "The US president says he's \"recommending\" a 50 per cent tariff be put on goods from the European Union from June 1, because trade negotiations with the bloc are \"going nowhere\", and that Apple could face a 25 per cent penalty if iPhones aren't manufactured in…",
+            "url": "https://www.abc.net.au/news/2025-05-23/donald-trump-takes-aim-at-eu-and-iphones-with-new-tariff-threat/105331590",
+            "publishedAt": "2025-05-23T13:26:01Z",
+            "source": "ABC News (AU)"
+        },
+        {
+            "country": "au",
+            "title": "Harvard University sues Trump administration for blocking enrolment of foreign students",
+            "description": "Harvard University has sued US President Donald Trump's administration over the decision to revoke the Ivy League school's ability to enrol international students.",
+            "url": "https://www.abc.net.au/news/2025-05-23/harvard-university-sues-trump-administration/105331602",
+            "publishedAt": "2025-05-23T12:58:37Z",
+            "source": "ABC News (AU)"
+        },
+        {
+            "country": "au",
+            "title": "Germany promotes 'proven' shipbuilding record in opening pitch for $10 billion Australian warship project",
+            "description": "The company is competing against a rival bid from Japan that is being heavily backed by Tokyo.",
+            "url": "https://www.abc.net.au/news/2025-05-23/german-company-bids-for-australian-warship-contract/105330286",
+            "publishedAt": "2025-05-23T12:00:05Z",
+            "source": "ABC News (AU)"
+        },
+        {
+            "country": "au",
+            "title": "Google News",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOEluLUZoazMyeko0djV1blFCMnlydzVOWGJ6Q053NGg5MGhKZ3JGazJnV2hteXg1N3A5Zkc5SmcxVFJMLTJwQnBCbVV2Z3NBbFRydmJoQzF6MFpzc2tqbGw1amdiTnpaY3hqRWdNa2Y0aHU2c25mWEhIT2JXdVBpcXZmLS1KMjVWbTBGLTM1Yk5NSVFkNjhOMmJLcGxrbFA4S0ZYeXdXSThfbGVkeFlPLU5MSzExaG8yc2RlSTlIazltY2JWT2U5cmx0V0pNSzE0SUdqRlVyVnRHRzBjVW9lUzU3WGY0M3A5Nkl3",
+            "publishedAt": "2025-05-23T10:55:00+00:00",
+            "source": "Google News (Australia)"
+        },
+        {
+            "country": "au",
+            "title": "NSW floods as it happened: Four dead as rescue operations continue on Mid North Coast; Police criticised by family of woman killed in floodwaters - The Sydney Morning Herald",
+            "description": "<ol><li>NSW floods as it happened: Four dead as rescue operations continue on Mid North Coast; Police criticised by family of woman killed in floodwaters  The Sydney Morning Herald\r\n</li><li>Family rescued from floods near Kempsey horrified at what was in the…",
+            "url": "https://admin.google.com/ServiceNotAllowed",
+            "publishedAt": "2025-05-23T10:40:53+00:00",
+            "source": "Google News (Australia)"
+        },
+        {
+            "country": "au",
+            "title": "AFL world divided by Dreamtime ceremony",
+            "description": "The AFL put on a spectacular pre-match entertainment show ahead of the annual Dreamtime at the ‘G clash on Friday night, although it left those watching on deeply divided.",
+            "url": "https://www.news.com.au/sport/afl/afl-world-divided-by-dreamtime-ceremony/news-story/b7e72823282fda1babc8fd15822c9886",
+            "publishedAt": "2025-05-23T10:33:00Z",
+            "source": "News.com.au"
+        },
+        {
+            "country": "au",
+            "title": "Stunning price paid for a CBD car park",
+            "description": "If you thought the cost of real estate in Australia could not get anymore unaffordable, a handful of car bays in Sydney’s CBD have just sold for millions of dollars.",
+            "url": "https://www.news.com.au/finance/real-estate/six-car-bays-in-sydneys-cbd-have-sold-for-millions-of-dollars/news-story/e91ca7bf8f908e22126e231e954881ee",
+            "publishedAt": "2025-05-23T10:20:00Z",
+            "source": "News.com.au"
+        },
+        {
+            "country": "au",
+            "title": "Google News",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNb2xKdjk1RDRXZVNUOEs5cGdyY3V0dURnSEl6REVhZjhYUVVucjNMd041NkhVRDZ1S0JfUTFOUFp0RVBTZ2lVNXZLZ0otZnRxc0VCVDlKbk14NWhTei0xVjhvR2YydHpWYlkzWldRb2RuUTV5Smd1bC1KNWVUT0hpVTNOcFR0THdtcU1zb1JvV1lrOHFzODlRMmswLWlsZ01VdTNoRkF0Z1VFQjBVbTJqNlZsZFNVNnhLckFjajA3QmZTcXZSZ2R1ZFM2N0NMZC14b095X1E1ekVMd1E2WlN2U25MQXFjOEtO",
+            "publishedAt": "2025-05-23T10:07:00+00:00",
+            "source": "Google News (Australia)"
+        },
+        {
+            "country": "au",
+            "title": "Shopping centre rocked by dangerous disease",
+            "description": "Melbourne’s largest shopping centre has been rocked by measles after Victoria recorded two more locally acquired cases of the highly contagious disease.",
+            "url": "https://www.news.com.au/lifestyle/health/health-problems/alert-for-melbournes-chadstone-shopping-centre-as-two-more-locally-acquired-cases-of-measles-are-confirmed/news-story/57e70435d32c489bfb0bb2e83c74ff75",
+            "publishedAt": "2025-05-23T09:21:00Z",
+            "source": "News.com.au"
+        },
+        {
+            "country": "au",
+            "title": "AFL Round 11 Bombers vs Tigers, 'Dreamtime at the G' live updates, blog, scores and stats from the MCG",
+            "description": "We are set for one of the highlights of Sir Doug Nicholls Round, as Essendon plays Richmond in 'Dreamtime at the G'. Follow all the action in our live blog.",
+            "url": "https://www.abc.net.au/news/2025-05-23/afl-round-11-essendon-v-richmond-dreamtime-at-the-g-live-updates/105330662",
+            "publishedAt": "2025-05-23T08:54:27Z",
+            "source": "ABC News (AU)"
+        },
+        {
+            "country": "au",
+            "title": "TWU demand: $121m Qantas court conundrum that will reshape union legal action",
+            "description": "The TWU bid to be paid more than $100 million in fines by Qantas for illegal sacking 2000 ground staff could spur a wave of litigation against large companies.",
+            "url": "http://www.afr.com/companies/transport/the-121m-qantas-conundrum-that-will-reshape-union-legal-action-20250523-p5m1o1",
+            "publishedAt": "2025-05-23T08:54:05Z",
+            "source": "Australian Financial Review"
+        },
+        {
+            "country": "au",
+            "title": "Mum died after being ‘guided into floodwater’",
+            "description": "A family is calling for answers after their mother died after they said a police officer gave her the all clear to keep driving.",
+            "url": "https://www.news.com.au/national/nsw-act/news/the-family-of-pauline-fitzsimons-who-died-driving-through-nsw-floodwaters-say-police-gave-her-the-all-clear/news-story/3c52d50fc3a792ebe0ab30a25e195f22",
+            "publishedAt": "2025-05-23T08:40:00Z",
+            "source": "News.com.au"
+        },
+        {
+            "country": "au",
+            "title": "NRL live updates: Parramatta Eels vs Manly Sea Eagles — blog, scores and stats",
+            "description": "Tom Eisenhuth has announced his medical retirement from the NRL, with the St George Illawarra prop struggling to overcome concussion symptoms. Follow live.",
+            "url": "https://www.abc.net.au/news/2025-05-23/nrl-live-updates-parramatta-eels-vs-manly-sea-eagles/105330588",
+            "publishedAt": "2025-05-23T07:57:21Z",
+            "source": "ABC News (AU)"
+        },
+        {
+            "country": "au",
+            "title": "Google News",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTUYtZS03bXF3bU1CT0hHVXhiM0szb3ZZY0dHVFJjeG5hTC1jc3dqRm9kRW1xbjFQN3FwUTlvbmFwOERLOEpzV25DUHplRmZ6b0ZhTEp1b0M2ZEhoOWxzenFYbG5rUmRjUVd0MWcyTmlPeGhUT19FcDRjclJCbHhlTjVVdG5ES25LSjVTY05PbHJXMFlmc1pKOWpQSXNuTU9hZHpiYmZPajZhOVA2SU5ISWtJd1dteUpydF8yeUtJZU9kZlF6S0dPRE1TdENJVi1pNnc",
+            "publishedAt": "2025-05-23T07:39:21+00:00",
+            "source": "Google News (Australia)"
+        },
+        {
+            "country": "au",
+            "title": "Petrol fire attack exposes double standard",
+            "description": "OPINION",
+            "url": "https://www.news.com.au/lifestyle/real-life/news-life/the-petrol-fire-attack-highlights-a-major-double-standard/news-story/5247d7ed0b91b044f8634128cd5a3705",
+            "publishedAt": "2025-05-23T07:22:00Z",
+            "source": "News.com.au"
+        },
+        {
+            "country": "au",
+            "title": "In pictures: The devastating impact the NSW floods have had on people's lives",
+            "description": "A fourth person has been confirmed dead and another is still missing in record floods on the NSW Mid North Coast. These pictures capture the impact the flooding has had on people's lives.",
+            "url": "https://www.abc.net.au/news/2025-05-23/in-pictures-how-the-nsw-floods-impacted-people/105327638",
+            "publishedAt": "2025-05-23T07:11:46Z",
+            "source": "ABC News (AU)"
+        },
+        {
+            "country": "au",
+            "title": "Election 2025: These three charts show the mountain the Liberals have to climb",
+            "description": "Labor will be defending just 20 marginal seats at the next election after building up buffers in traditional battleground contests.",
+            "url": "http://www.afr.com/politics/federal/these-three-charts-show-the-mountain-the-liberals-have-to-climb-20250523-p5m1m7",
+            "publishedAt": "2025-05-23T07:04:36Z",
+            "source": "Australian Financial Review"
+        },
+        {
+            "country": "au",
+            "title": "Google News",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMkhrRHV3NFlTbzJaX1VzaDQ2Zk1BUFFWQ2FOcFRRZkVmX3N2T3R1NWx5UGRiVXFHZklXMHBXSWU3MG9fbEp0aVhWTEhBMThRVzJpV05WN2thZHRieGpoR2pLaFBzMHlhY2VDTTNRUnJoX3lSSnZBNkwwcFZFQ3UwT2JnRnR4ZnBZVTkza0t2eXlYVHJDeC1yRjdib0xwdHo4b2dzZVZzZjnSAVJBVV95cUxOMlVmWFNPNXo5YUxFS05ZY29FUWppR0dYQ2RFVTk3SktUb0NXdVBsUkhsampQM1RlN3U4ejdGM3UzUkxBdUVncTl3WHNCTF9jNjVn",
+            "publishedAt": "2025-05-23T06:38:10+00:00",
+            "source": "Google News (Australia)"
+        },
+        {
+            "country": "au",
+            "title": "Brutal text sent to staff as company collapses",
+            "description": "EXCLUSIVE",
+            "url": "https://www.news.com.au/finance/business/other-industries/heartbroken-brutal-text-sent-to-staff-as-company-collapses/news-story/e88194eda720a49a403aa72718b0bc69",
+            "publishedAt": "2025-05-23T06:26:00Z",
+            "source": "News.com.au"
+        },
+        {
+            "country": "au",
+            "title": "Google News",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZmZHOTEzby0zNTlpLVRYS0RvQVpsN0plcUFMTmdDT3paUnRTSEZFSWlpVGNOT1IyaHJNeWo2c2U0QXZfWG5mcEFEZmR6TnpSb01Uai10WWY5YzYtVXZIS1pNQ2RyTy1DU1hWbFg2MGw2YThhVTlDdHpWYUVWcHdKRnc3a2Q3bFl5UWFoQ1AtcW9mdGFVb0dpbk10NDBOak43RFZlUFJuNGhmMjdXUnFLUUxmUEpZNlRlOW9zX25XcHdJczhjVEpkdjZIUW90Wmdk",
+            "publishedAt": "2025-05-23T05:09:36+00:00",
+            "source": "Google News (Australia)"
+        },
+        {
+            "country": "au",
+            "title": "Liberals agree to 'suck it up' and back Nationals demands in principle, leaving Coalition on the table",
+            "description": "The Liberal party room met today to discuss Nationals Leader David Littleproud's four policy demands as part of discussions over the coalition agreement.",
+            "url": "https://www.abc.net.au/news/2025-05-23/liberals-agree-to-nationals-demands-in-principle/105329370",
+            "publishedAt": "2025-05-23T05:01:05Z",
+            "source": "ABC News (AU)"
+        },
+        {
+            "country": "au",
+            "title": "$3m super tax: There is a case to reform super tax breaks. But not this way",
+            "description": "Australia’s tax breaks on retirement balances are generous. But the treasurer is going about reform the wrong way, experts say.",
+            "url": "http://www.afr.com/politics/federal/there-is-a-case-to-reform-super-tax-breaks-but-not-this-way-20250521-p5m13e",
+            "publishedAt": "2025-05-23T04:12:55Z",
+            "source": "Australian Financial Review"
+        },
+        {
+            "country": "au",
+            "title": "‘90pc surge’: Horror news for Japan",
+            "description": "New data has revealed just how much Japan is being drubbed by the current global economic uncertainty.",
+            "url": "https://www.news.com.au/world/asia/rice-prices-double-in-japan-as-inflation-hits-extreme-twoyear-high/news-story/1913484707b1135572d851b7ae784c06",
+            "publishedAt": "2025-05-23T04:07:00Z",
+            "source": "News.com.au"
+        },
+        {
+            "country": "au",
+            "title": "Worker destroys boss during termination call",
+            "description": "An employee has shared the moment she was laid off from her job, with her savage response earning her huge amounts of praise from social media users.",
+            "url": "https://www.news.com.au/finance/work/at-work/cant-say-the-same-for-you-workers-savage-response-after-termination/news-story/5da44011c07bcc670fb04b1f3aba9a2f",
+            "publishedAt": "2025-05-23T04:04:00Z",
+            "source": "News.com.au"
+        },
+        {
+            "country": "au",
+            "title": "Lunch guests' illnesses were 'not survivable', doctor tells Erin Patterson trial - Australian Broadcasting Corporation",
+            "description": "<ol><li>Lunch guests' illnesses were 'not survivable', doctor tells Erin Patterson trial  Australian Broadcasting Corporation\r\n</li><li>'Thought he was going to die': how mushroom lunch almost killed four  9News.com.au\r\n</li><li>As lunch guests lay dying, hea…",
+            "url": "https://access.workspace.google.com/remediate",
+            "publishedAt": "2025-05-23T03:56:15+00:00",
+            "source": "Google News (Australia)"
+        },
+        {
+            "country": "au",
+            "title": "Gross detail at home where 17yo last seen",
+            "description": "A “pervading stench of decay” lingers around the property where missing teenager Pheobe Bishop lived before her suspicious disappearance.",
+            "url": "https://www.news.com.au/national/queensland/crime/gross-detail-at-home-where-17yo-pheobe-bishop-was-living-before-suspicious-disappearance/news-story/0e4a0e4786b35d059436429f79c76510",
+            "publishedAt": "2025-05-23T03:06:00Z",
+            "source": "News.com.au"
+        },
+        {
+            "country": "au",
+            "title": "NSW flood road closures see Pacific Highway closed amid floodwater warnings",
+            "description": "One of the country's most travelled highways becomes a dual carriageway river as flooding severs the main coastal highway — but there are still roads open. Here's what to know.",
+            "url": "https://www.abc.net.au/news/2025-05-23/nsw-floods-road-closures-pacific-highway/105327070",
+            "publishedAt": "2025-05-23T02:38:46Z",
+            "source": "ABC News (AU)"
+        },
+        {
+            "country": "au",
+            "title": "Donald Trump Harvard: Australians in turmoil as president bans overseas students from the university",
+            "description": "Nobel laureate and Harvard alumnus Brian Schmidt says the president’s move to ban the world’s best university from enrolling students from overseas is a “profound escalation”.",
+            "url": "http://www.afr.com/world/north-america/aussies-in-turmoil-as-trump-bans-overseas-students-from-harvard-20250523-p5m1mv",
+            "publishedAt": "2025-05-23T01:27:45Z",
+            "source": "Australian Financial Review"
+        },
+        {
+            "country": "au",
+            "title": "Labor super tax: This is the better way to tax super capital gains",
+            "description": "If exempting superannuation returns in retirement causes problems, there is an obvious solution: reinstate tax on super returns in retirement.",
+            "url": "http://www.afr.com/policy/economy/there-is-a-better-way-to-tax-super-capital-gains-20250522-p5m1hn",
+            "publishedAt": "2025-05-22T23:59:56Z",
+            "source": "Australian Financial Review"
+        },
+        {
+            "country": "au",
+            "title": "177 flood rescues, five people dead as NSW flood disaster continues",
+            "description": "The weather system that has caused record flooding in NSW this week may have moved south, but the sheer volume of water and overnight bursts of rain mean communities are still on high alert.",
+            "url": "https://www.abc.net.au/news/2025-05-23/nsw-flood-deaths-weather-system-tracking-south/105325192",
+            "publishedAt": "2025-05-22T20:32:44Z",
+            "source": "ABC News (AU)"
+        },
+        {
+            "country": "au",
+            "title": "Google News",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV2V2eWRUS20tRWFlcUp0MUpsUUxEeUxlMEFDOFRtUUtDYnhOdVQyOEthUGtoVjV5XzZtSGl2TVZXd0VKa2EzQ3J6Ukk5YmtVNDNCdkdNMEpQOE1kNGpRX0lCZ05iMl9oeXU0OEh4bU11RzJpaWFFOXY3ZldRZlp5WEpwQ0h2Y01uUDlSX2djemVRQ1dCcEZnanBHaEFnWFJUUHBKdWNRV0pDeDJmVDg3NEZNVzN4Q0o2WGhlbG1IcHNQbzZQVnF5RUk1cTdOQ1lLdzFGMTdoel8zdXBWaTlkN29hNldmcWVtMjQ5THBBUFlXWEF5eDV3",
+            "publishedAt": "2025-05-22T07:24:30+00:00",
+            "source": "Google News (Australia)"
+        },
+        {
+            "country": "au",
+            "title": "$12 Kmart item solves common office problem",
+            "description": "There’s a truth universally acknowledged: no matter if it’s the peak of summer or the depths of winter, the office airconditioning will always be freezing cold.",
+            "url": "https://www.news.com.au/lifestyle/real-life/news-life/winter-must-have-viral-kmart-item-solves-common-office-problem/news-story/82fe21922047858d39a97d82cfad3381",
+            "publishedAt": "2025-05-22T04:45:00Z",
+            "source": "News.com.au"
+        },
+        {
+            "country": "au",
+            "title": "Anthony Albanese lunches with Qantas and the dark arts squad",
+            "description": "The prime minister was among a sold-out throng for ALP national secretary Paul Erickson’s National Press Club address.",
+            "url": "http://www.afr.com/rear-window/albanese-lunches-with-qantas-and-the-dark-arts-squad-20250521-p5m140",
+            "publishedAt": "2025-05-21T08:25:59Z",
+            "source": "Australian Financial Review"
+        },
+        {
+            "country": "au",
+            "title": "Federal Court’s Michael Lee slams Qantas over false evidence on outsourcing",
+            "description": "Justice Michael Lee is considering what penalty to impose on Qantas for the illegal sacking of nearly 2000 domestic ground staff during COVID-19 in 2020.",
+            "url": "http://www.afr.com/companies/transport/you-can-t-run-false-cases-judge-chides-qantas-over-evidence-20250521-p5m0x4",
+            "publishedAt": "2025-05-21T08:05:30Z",
+            "source": "Australian Financial Review"
+        },
+        {
+            "country": "au",
+            "title": "ASX WJL: Webjet reports bookings slump, cuts costs and postpones share buyback",
+            "description": "The online travel agent has done little to dampen takeover speculation, postponing capital management plans after an approach from BGH Capital.",
+            "url": "http://www.afr.com/companies/tourism/webjet-cuts-costs-to-beat-flights-slump-puts-buyback-on-ice-20250521-p5m0z8",
+            "publishedAt": "2025-05-21T03:23:46Z",
+            "source": "Australian Financial Review"
+        },
+        {
+            "country": "au",
+            "title": "QAN ASX: Buoyant business travel pushes Qantas over resurgent Virgin",
+            "description": "The Bain Capital-owned airline had briefly become the most popular domestic carrier, but lost the crown as Qantas maintains a stranglehold on corporate flying.",
+            "url": "http://www.afr.com/companies/transport/buoyant-business-travel-pushes-qantas-over-resurgent-virgin-20250504-p5lwdz",
+            "publishedAt": "2025-05-20T08:05:03Z",
+            "source": "Australian Financial Review"
+        },
+        {
+            "country": "au",
+            "title": "Qantas pleads for mercy as court questions Goyder’s claims",
+            "description": "Federal Court Justice Michael Lee says Qantas claims that it had sound commercial reasons to outsource workers does not change the fact it acted illegally.",
+            "url": "http://www.afr.com/companies/transport/qantas-pleads-for-mercy-as-court-questions-goyder-s-claims-20250519-p5m0b6",
+            "publishedAt": "2025-05-19T06:41:23Z",
+            "source": "Australian Financial Review"
+        },
+        {
+            "country": "ca",
+            "title": "CRA cutting up to 280 jobs in response to fiscal constraints",
+            "description": "The Canada Revenue Agency is cutting up to 280 permanent employees in response to fiscal constraints. Find out more.",
+            "url": "https://financialpost.com/news/cra-280-jobs-fiscal-constraints",
+            "publishedAt": "2025-05-23T16:22:22.923815Z",
+            "source": "Financial Post"
+        },
+        {
+            "country": "ca",
+            "title": "Ukraine, Russia begin what is expected to be largest prisoner swap since 2022 invasion | CBC News",
+            "description": "Russia and Ukraine each released 390 prisoners on Friday and said they would free more in the coming days, in what is expected to be the biggest prisoner swap of the war so far.",
+            "url": "http://www.cbc.ca/news/world/ukraine-russia-prisoner-exchange-1.7542039",
+            "publishedAt": "2025-05-23T16:22:21.9865473Z",
+            "source": "CBC News"
+        },
+        {
+            "country": "ca",
+            "title": "Visa, Mastercard fees hit by new round of EU antitrust scrutiny",
+            "description": "Visa Inc. and Mastercard Inc. fees are under scrutiny from European Union antitrust enforcers. Find out more here",
+            "url": "https://financialpost.com/news/visa-mastercard-fees-hit-by-eu-antitrust-scrutiny",
+            "publishedAt": "2025-05-23T16:22:20.5494055Z",
+            "source": "Financial Post"
+        },
+        {
+            "country": "ca",
+            "title": "At Issue | Carney sets up throne speech",
+            "description": "At Issue this week: Prime Minister Mark Carney sets the stage for a throne speech with a mandate letter outlining tasks and priorities for his cabinet. Canada looks beyond the U.S. for allies. And, Liberal MPs will soon decide whether to give themselves the p…",
+            "url": "https://www.cbc.ca/player/play/video/9.6770002",
+            "publishedAt": "2025-05-23T16:07:45.6263576Z",
+            "source": "CBC News"
+        },
+        {
+            "country": "ca",
+            "title": "David Attenborough's Ocean documentary has a scene straight out of Dune | CBC News",
+            "description": "Opening in Canadian theatres on May 24, Ocean with David Attenborough is a beautiful yet dark look at the vital ecosystems of our connected seas — and the harms humans bring to it.",
+            "url": "http://www.cbc.ca/news/science/attenborough-ocean-bottom-trawling-overfishing-1.7541009",
+            "publishedAt": "2025-05-23T16:07:39.1123534Z",
+            "source": "CBC News"
+        },
+        {
+            "country": "ca",
+            "title": "Why Trump's vision to bring home all U.S. manufacturing is 'almost impossible' | About That",
+            "description": "President Donald Trump's 'Made in America' push is prompting some U.S. companies to expand domestic production — but many others are saying that's just not feasible. Andrew Chang explains how the apparel industry is a prime example of why experts say a large-…",
+            "url": "http://www.cbc.ca/player/play/video/9.6746465",
+            "publishedAt": "2025-05-23T16:07:36.1576349Z",
+            "source": "CBC News"
+        },
+        {
+            "country": "ca",
+            "title": "Trump administration to exclude smartphones and computers from latest tariffs | CBC News",
+            "description": "The Trump administration now says it will exclude electronics like smartphones and laptops from \"reciprocal\" tariffs, a move that could help keep the prices down for popular consumer electronics that aren't usually made in the U.S.",
+            "url": "http://www.cbc.ca/news/world/trump-electronics-retaliatory-tariffs-exemption-1.7508923",
+            "publishedAt": "2025-05-23T16:07:30.4871706Z",
+            "source": "CBC News"
+        },
+        {
+            "country": "ca",
+            "title": "Trump threatens EU with 50% tariff, iPhone maker Apple with 25% | CBC News",
+            "description": "U.S. President Donald Trump cranked up his trade threats on Friday, targeting both smartphone giant Apple and imports from the European Union, sending the global market roiling after weeks of de-escalation provided some reprieve.",
+            "url": "http://www.cbc.ca/news/business/trump-trade-threats-eu-apple-1.7541856",
+            "publishedAt": "2025-05-23T16:07:22.1743446Z",
+            "source": "CBC News"
+        },
+        {
+            "country": "ca",
+            "title": "Google News",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORUZMYkpPN3NwbC15Y0RfZVQ0QlJTTVdUZ2xRWlRfZUVOazhkeWNHdlhIZDJBNXZuWUw5X25BeTF2MUlfeHpaZi1ES2dINEN2czRuUXU3Vy1LSGFLeUhrQ1dscjZ4a05FZXNyajYtMDhLcjBNa0NyYmNwd0lFdEowWnVwV1diTzdJLTlVU3B1R3ZGVERu",
+            "publishedAt": "2025-05-23T16:03:43+00:00",
+            "source": "Google News (Canada)"
+        },
+        {
+            "country": "ca",
+            "title": "Oil extends weekly slump as Trump floats 50% tariffs on the EU",
+            "description": "Oil extended this week’s decline after U.S. President Donald Trump threatened to slap a 50% tariff on the European Union. Find out more here",
+            "url": "https://financialpost.com/commodities/energy/oil-gas/oil-extends-slump",
+            "publishedAt": "2025-05-23T15:43:28Z",
+            "source": "Financial Post"
+        },
+        {
+            "country": "ca",
+            "title": "Economists say Canadian recession has already begun",
+            "description": "Canada’s economy is in the early stages of a recession, according to forecasters, as unemployment rises and exports fall. Find out more here",
+            "url": "https://financialpost.com/news/economy/canada-recession-already-begun",
+            "publishedAt": "2025-05-23T15:22:17.0338789Z",
+            "source": "Financial Post"
+        },
+        {
+            "country": "ca",
+            "title": "Summers slams Trump’s move against Harvard as ‘stuff of tyranny’",
+            "description": "Lawrence Summers blasted Trump's decision to block Harvard University from enrolling international students. Find out more here",
+            "url": "https://financialpost.com/news/summers-slams-trumps-move-against-harvard",
+            "publishedAt": "2025-05-23T15:07:20.1422438Z",
+            "source": "Financial Post"
+        },
+        {
+            "country": "ca",
+            "title": "Vermilion Energy selling assets in Saskatchewan and Manitoba for $415 million",
+            "description": "Vermilion Energy Inc. has signed a deal to sell a group of assets in Saskatchewan and Manitoba for $415 million. Read more.",
+            "url": "https://financialpost.com/commodities/energy/oil-gas/vermilion-energy-selling-saskatchewan-manitoba-415-million",
+            "publishedAt": "2025-05-23T14:55:53Z",
+            "source": "Financial Post"
+        },
+        {
+            "country": "ca",
+            "title": "Cars and trucks flying off the lots as Canadians rush to beat tariffs",
+            "description": "Retail sales rose as Canadian consumers kept on spending, defying a tariff war that threatens their employment and wealth. Read more",
+            "url": "https://financialpost.com/news/economy/canada-retail-sales-beat-expectations-despite-tariffs",
+            "publishedAt": "2025-05-23T14:52:22.6111555Z",
+            "source": "Financial Post"
+        },
+        {
+            "country": "ca",
+            "title": "Google News",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc2dNZHoyZWo2dHd0RXdYb2N3U0hJYUZyeHRUYnFtVUZCYkNnSG5MTU4tMzBLUmNQUDB4dEdDbGVsRUVsbTB0UXdVLUg1UUw0S3dpMVh2dXhCeHpmVHBuOVA3QjBZbUtKRFVPd2RqRDQxblFHV0NTMEJtUUJYak43UE94VUl5SzB5X1NNQm1DSnVkWTRqcFY4NE9ldlUyUU9IMXRsNlRnTzJ0S1Zz",
+            "publishedAt": "2025-05-23T14:51:37+00:00",
+            "source": "Google News (Canada)"
+        },
+        {
+            "country": "ca",
+            "title": "Harvard sues the Trump administration over ban on enrolling foreign students, including hundreds of Canadians - CTV News",
+            "description": "<ol><li>Harvard sues the Trump administration over ban on enrolling foreign students, including hundreds of Canadians  CTV News\r\n</li><li>Harvard sues Trump administration over potential international student ban  CBC\r\n</li><li>Harvard Gets Temporary Block of…",
+            "url": "https://admin.google.com/ServiceNotAllowed",
+            "publishedAt": "2025-05-23T14:47:04+00:00",
+            "source": "Google News (Canada)"
+        },
+        {
+            "country": "ca",
+            "title": "Should ayahuasca be made legal? A N.S. religious freedom case tests that argument | CBC News",
+            "description": "A crucial element of ayahuasca, the component N,N-dimethyltryptamine, commonly called DMT, remains illegal in many countries including Canada, which lists it as prohibited in the Controlled Drugs and Substances Act.",
+            "url": "http://www.cbc.ca/news/canada/nova-scotia/ayahuasca-religious-freedom-court-case-1.7541309",
+            "publishedAt": "2025-05-23T14:37:47.6747312Z",
+            "source": "CBC News"
+        },
+        {
+            "country": "ca",
+            "title": "Pollution & Pain: What this Canadian endures in pursuit of the fastest 400 metres ever run",
+            "description": "",
+            "url": "https://www.cbc.ca/sports/longform/features/christopher-morales-williams-400-metre-canada",
+            "publishedAt": "2025-05-23T14:07:20.7059372Z",
+            "source": "CBC News"
+        },
+        {
+            "country": "ca",
+            "title": "Judge to decide if NHLer’s text messages can be used as evidence at trial of ex-world junior hockey players | CBC",
+            "description": null,
+            "url": "https://www.cbc.ca/9.6770401",
+            "publishedAt": "2025-05-23T13:37:47.4401536Z",
+            "source": "CBC News"
+        },
+        {
+            "country": "ca",
+            "title": "Harvard sues Trump administration over potential international student ban | CBC News",
+            "description": "Chinese students at Harvard were seeking legal advice on staying in the United States after U.S. President Donald Trump's administration blocked the famed university from enrolling foreign students, a move slammed by the government in Beijing.",
+            "url": "http://www.cbc.ca/news/world/china-international-students-harvard-1.7541844",
+            "publishedAt": "2025-05-23T13:37:25.1572824Z",
+            "source": "CBC News"
+        },
+        {
+            "country": "ca",
+            "title": "Trump threatens 25% tariff on Apple unless iPhones are made in the U.S.",
+            "description": "Apple in response to Donald Trump's tariffs on China was looking to shift iPhone manufacturing to India. Read more",
+            "url": "https://financialpost.com/news/trump-threatens-tariff-apple-iphones-made-outside-u-s",
+            "publishedAt": "2025-05-23T13:22:18.0326965Z",
+            "source": "Financial Post"
+        },
+        {
+            "country": "ca",
+            "title": "Ottawa has to allow home prices to fall to make housing more affordable, experts say",
+            "description": "Housing experts are pushing back against Gregor Robertson's claim that prices don't need to go down to restore affordability. Read more.",
+            "url": "https://financialpost.com/real-estate/ottawa-home-prices-housing-more-affordable-experts",
+            "publishedAt": "2025-05-23T13:06:56Z",
+            "source": "Financial Post"
+        },
+        {
+            "country": "ca",
+            "title": "Google News",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZGZ0Z3RRZ1lDNkZxNUdVaGZqRlB2Q0JSR21BS3JpLTRpblpjMk1mbHY3ZURRdmRScTlTaUxTWWRpVWZPaFMwY2pFSktXcjJRNlM4UzRMUmN0UnRYTlpwN3NyRlNXcjR6QWRLOWFUQVZhX045NVE0Uk02UzJQMHdRS2oxZjNLVDhVTDRvX1FEM21pM3IySW1ZWmxzNnhUSGhBVl9BRjg4M1dmcjRPUnhJckFORzhUZw",
+            "publishedAt": "2025-05-23T10:49:42+00:00",
+            "source": "Google News (Canada)"
+        },
+        {
+            "country": "ca",
+            "title": "Google News",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS0J2bFVlSTh4Nm9UN3UwQ1JhZm9adDlYZ0xRb0tNUDUzMmdENVJqZ1hQVXp2b1l1cDF5clFGU3JmcEhUVXJnenJWZTVWaWRsME1PM2VxcE8zOU5pZzdtRU80MlNsb1RLUFhmMlVHVmhwaEY2NTRrYkRCYU9OZ044OWstOXBUUXZjTTNtam1kdmV5U2l6MFI4VzBnYWV1T2Fzd3d2V19JdVNIUE9QN0Y1R0Zkb3dta3dTY2hxTmV1Xy01MFd4WUNVNFJ5OEhUX3QxNlhJUE5NdkdWckdrbG8w",
+            "publishedAt": "2025-05-23T01:00:00+00:00",
+            "source": "Google News (Canada)"
+        },
+        {
+            "country": "ca",
+            "title": "Google News",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZWtqUWhkNENpeTdLRy1GYXpVR0tIRGJjV2lNdi1OTWpvR2dIazY3OG1nbGdNWkNGc2lTN0NUazdDZnY3Y1NvM0wwV0VGTnhLRjQ0d2JpQ0tWc2hsM0hGdU5aRkFPUldRbFhHYWJHMTBKOXVsT1A0X21UeW55Q3d3cE9HSWJEangwRkJNMVpqSnFaR0lUM0dTcFV4WXNCdG1uVjBOUkRJVTJyZkJzcnhJaGhSVGhuWHZkLU1vSkVzTzdLdWJ1bUVWUFU5QVFzTnVmankwczNKcU9KcG1ieFZ4RmdWR01iRWJlM0k1Uw",
+            "publishedAt": "2025-05-22T23:24:35+00:00",
+            "source": "Google News (Canada)"
+        },
+        {
+            "country": "ca",
+            "title": "Google News",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSkh6Vlh4UnRwYXdEVDFmNTZuU01TX0ZUd0pPMGFNQ2hxVGhqdlR1Z04yWVZGVkhLWGVaNWJ3QVVFd2xJZFNMLWxSd1QwSWVpSjhma3diMWs3T25tR0s1b21sY0tqX0d6SllodDBQZXloeUJ6cFBfeGVQOTdvVGdOQW5CQTBDV2MtY1A4NEU5VFAxQ1RjalpObzQ3c0pfNEx5WU1QTXJKVWlyV1hNTWZVMjRKaHpaS2FlS3JReEtrWWtCSUtNUHc",
+            "publishedAt": "2025-05-22T15:46:28+00:00",
+            "source": "Google News (Canada)"
+        },
+        {
+            "country": "ca",
+            "title": "Carney gives cabinet mandate letter to confront ‘generational challenge’ - Global News",
+            "description": "<ol><li>Carney gives cabinet mandate letter to confront ‘generational challenge’  Global News\r\n</li><li>Mandate Letter  pm.gc.ca\r\n</li><li>Inside Mark Carney's PMO where ministers get called out, punctuality matters and patience is on short supply  National P…",
+            "url": "https://access.workspace.google.com/remediate",
+            "publishedAt": "2025-05-22T14:49:22+00:00",
+            "source": "Google News (Canada)"
+        },
+        {
+            "country": "ca",
+            "title": "High cost of living forcing Canadians to make concessions on auto theft prevention",
+            "description": "Canadians are concerned about auto theft, but the high cost of living is forcing them to make concessions on prevention measures. Read more.",
+            "url": "https://financialpost.com/transportation/autos/financial-toll-auto-theft-weighing-canadian-drivers",
+            "publishedAt": "2025-05-21T14:00:52Z",
+            "source": "Financial Post"
+        },
+        {
+            "country": "ca",
+            "title": "Leaders of Germany, France, Italy, Romania in Ukraine to support fight against Russia",
+            "description": "Zelensky expected to push for more arms to withstand the Russian invaders after accusing France, Germany and Italy of foot-dragging",
+            "url": "https://www.theglobeandmail.com/world/article-leaders-of-germany-france-italy-romania-in-ukraine-to-support-fight/",
+            "publishedAt": "2022-06-16T10:05:33Z",
+            "source": "The Globe And Mail"
+        },
+        {
+            "country": "ca",
+            "title": "BlackBerry spins its wheels, but the paydays continue",
+            "description": "The pay-for-performance disconnect at BlackBerry is real and getting worse, and shareholders will likely send that message next week",
+            "url": "https://www.theglobeandmail.com/business/commentary/article-blackberry-spins-its-wheels-but-the-paydays-continue/",
+            "publishedAt": "2022-06-16T09:30:00Z",
+            "source": "The Globe And Mail"
+        },
+        {
+            "country": "ca",
+            "title": "Panic at the crypto",
+            "description": "Cryptocurrencies have taken another beating this week. Globe columnist Tim Kiladze makes sense of this latest crash",
+            "url": "https://www.theglobeandmail.com/podcasts/the-decibel/article-panic-at-the-crypto/",
+            "publishedAt": "2022-06-16T09:00:00Z",
+            "source": "The Globe And Mail"
+        },
+        {
+            "country": "ca",
+            "title": "‘It’s a dog eat dog world’ as housing cool-down helps ignite rental market wars",
+            "description": "Rents in many parts of Canada are nearing or surging past prepandemic records, just as property values and home resale transactions declined for the second consecutive month in May",
+            "url": "https://www.theglobeandmail.com/investing/personal-finance/household-finances/article-its-a-dog-eat-dog-world-as-housing-cool-down-helps-ignite-rental/",
+            "publishedAt": "2022-06-16T09:00:00Z",
+            "source": "The Globe And Mail"
+        },
+        {
+            "country": "ca",
+            "title": "OPP officers provide testimony at inquest into 2015 triple murders",
+            "description": "Four OPP officers addressed difficulties they had while discovering three deaths in 2015 connected by intimate partner violence",
+            "url": "https://www.theglobeandmail.com/canada/article-opp-provide-testimony-at-inquest-into-2015-triple-murders/",
+            "publishedAt": "2022-06-16T01:18:17Z",
+            "source": "The Globe And Mail"
+        },
+        {
+            "country": "ca",
+            "title": "Across Canada, renters are now saving hundreds of dollars over owning",
+            "description": "The math on renting vs. owning a home has changed drastically, says Rob Carrick in this look at the owning versus renting debate",
+            "url": "https://www.theglobeandmail.com/investing/personal-finance/young-money/article-across-canada-renters-are-now-saving-hundreds-of-dollars-over-owning/",
+            "publishedAt": "2022-06-15T19:46:27Z",
+            "source": "The Globe And Mail"
+        },
+        {
+            "country": "ca",
+            "title": "Liz Cheney is making headway in slaying the Trump dragon",
+            "description": "By spearheading congressional hearings into the Jan. 6 attack on the Capitol, the representative is fast becoming an American heroine",
+            "url": "https://www.theglobeandmail.com/opinion/article-liz-cheney-is-making-headway-in-slaying-the-trump-dragon/",
+            "publishedAt": "2022-06-15T19:24:08Z",
+            "source": "The Globe And Mail"
+        },
+        {
+            "country": "ca",
+            "title": "‘COVID hasn’t gone away’: Five things health experts say we must do to end the pandemic",
+            "description": "Boosting health care capacity, encouraging third doses and better understanding long COVID are among the issues health experts say need to be addressed",
+            "url": "https://www.theglobeandmail.com/canada/article-covid-19-pandemic-not-over/",
+            "publishedAt": "2022-06-15T17:00:00Z",
+            "source": "The Globe And Mail"
+        },
+        {
+            "country": "ca",
+            "title": "Partying with the Russians: the message is, this will all blow over some day",
+            "description": "By sending a representative, Global Affairs betrayed its attitude toward the war in Ukraine",
+            "url": "https://www.theglobeandmail.com/opinion/article-partying-with-the-russians-the-message-is-this-will-all-blow-over-some/",
+            "publishedAt": "2022-06-15T12:00:00Z",
+            "source": "The Globe And Mail"
+        },
+        {
+            "country": "ca",
+            "title": "Many women who suffer from intimate partner violence don’t trust the police. Why are they the default response?",
+            "description": "Fearing discrimination, revictimization or arrests that do more harm than good, women in Canada often stay silent about their abuse. Other jurisdictions are trying to remove police from the equation",
+            "url": "https://www.theglobeandmail.com/canada/article-intimate-partner-violence-police-response/",
+            "publishedAt": "2022-06-14T11:00:00Z",
+            "source": "The Globe And Mail"
+        }
+    ]
+}

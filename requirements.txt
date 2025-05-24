@@ -1,0 +1,14 @@
+# Core libraries
+streamlit
+pandas
+plotly
+joblib
+
+# News API client
+newsapi-python
+
+# Natural Language Processing
+nltk
+
+# Machine Learning
+scikit-learn
