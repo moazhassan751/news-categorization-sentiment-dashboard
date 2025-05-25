@@ -3,7 +3,7 @@ from newsapi import NewsApiClient
 from datetime import datetime
 
 # Initialize NewsAPI
-NEWSAPI_KEY = "5dd8f32d623a4e22aef4056f9459d17b"
+NEWSAPI_KEY = "08d49c2d053a4b5a88f187ac1b099523"
 newsapi = NewsApiClient(api_key=NEWSAPI_KEY)
 
 # List of countries to fetch news for
