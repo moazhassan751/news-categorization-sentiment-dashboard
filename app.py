@@ -41,29 +41,20 @@ df["publishedAt"] = pd.to_datetime(df["publishedAt"], errors='coerce')
 df = df.dropna(subset=["publishedAt"])
 
 # --- SIDEBAR FILTERS ---
-st.sidebar.image("https://upload.wikimedia.org/wikipedia/commons/6/6a/Newspaper_icon.png", width=80)
+st.sidebar.image("https://cdn-icons-png.flaticon.com/512/5432/5432747.png", width=100)
 st.sidebar.title("Filters")
 
 countries = sorted(df["country"].dropna().unique().tolist())
 categories = sorted(df["predicted_category"].dropna().unique().tolist())
+# Remove "Neutral" from categories (case-insensitive)
+categories = [cat for cat in categories if cat.lower() != "neutral"]
 sentiments = sorted(df["sentiment"].dropna().unique().tolist())
 
 selected_countries = st.sidebar.multiselect("Country", countries, default=countries)
 selected_categories = st.sidebar.multiselect("Category", categories, default=categories)
 selected_sentiments = st.sidebar.multiselect("Sentiment", sentiments, default=sentiments)
 
-min_date = df["publishedAt"].min().date()
-max_date = df["publishedAt"].max().date()
-date_range = st.sidebar.date_input(
-    "Published Date Range",
-    value=(min_date, max_date),
-    min_value=min_date,
-    max_value=max_date
-)
-if isinstance(date_range, tuple):
-    start_date, end_date = date_range
-else:
-    start_date = end_date = date_range
+# --- Removed publish date range filter ---
 
 st.sidebar.markdown("---")
 st.sidebar.caption("Powered by NewsAPI, ML Categorizer & Sentiment Model")
@@ -72,20 +63,18 @@ st.sidebar.caption("Powered by NewsAPI, ML Categorizer & Sentiment Model")
 filtered_df = df[
     df["country"].isin(selected_countries) &
     df["predicted_category"].isin(selected_categories) &
-    df["sentiment"].isin(selected_sentiments) &
-    (df["publishedAt"].dt.date >= start_date) &
-    (df["publishedAt"].dt.date <= end_date)
+    df["sentiment"].isin(selected_sentiments)
 ]
 
 # --- HEADER ---
 st.markdown(
     """
     <div style='display:flex;align-items:center;gap:20px;'>
-        <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/Newspaper_icon.png' width='60'/>
+        <img src='https://cdn-icons-png.flaticon.com/512/5432/5432747.png' width='120'/>
         <div>
             <h1 style='margin-bottom:0;'>🗞 News Categorization & Sentiment Dashboard</h1>
             <span style='font-size:18px;color:#444;'>Live news, categorized and analyzed for sentiment.<br>
-            Use the filters to explore by country, category, sentiment, and date.</span>
+            Use the filters to explore by country, category, sentiment.</span>
         </div>
     </div>
     """, unsafe_allow_html=True
@@ -162,7 +151,6 @@ if not filtered_df.empty:
             <div style='background:#f8f9fa;padding:18px 18px 8px 18px;margin-bottom:18px;border-radius:10px;box-shadow:0 2px 8px #eee;'>
                 <h4 style='margin-bottom:0;color:#222;'>{headline}</h4>
                 <div style='font-size:13px;color:#888;margin-bottom:6px;'>
-                    <b>Published:</b> {row['publishedAt'].strftime('%Y-%m-%d %H:%M')} &nbsp;|&nbsp;
                     <b>Category:</b> <span style='color:#0072C6'>{row['predicted_category']}</span> &nbsp;|&nbsp;
                     <b>Sentiment:</b> <span style='color:{sentiment_color(row['sentiment'])};font-weight:bold'>{row['sentiment']}</span> &nbsp;|&nbsp;
                     <b>Source:</b> {row['source']}
